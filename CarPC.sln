@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPC.MediaLib", "CarPC.MediaLib\CarPC.MediaLib.csproj", "{F804EA61-7B46-4BA6-A09D-172F883F3060}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPC.Interfaces", "CarPC.Interfaces\CarPC.Interfaces.csproj", "{413B47C0-E8F9-4BBA-B4E2-B248DE7C46D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarPC.Interfaces", "CarPC.Interfaces\CarPC.Interfaces.csproj", "{413B47C0-E8F9-4BBA-B4E2-B248DE7C46D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPC.WPFApp", "CarPC.WPFApp\CarPC.WPFApp.csproj", "{99C9E82C-C594-446D-AA59-8FFBC43AD226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPC.MediaLib", "CarPC.MediaLib\CarPC.MediaLib.csproj", "{F37C135B-D575-4E24-9D91-0DBB70DDC5C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F804EA61-7B46-4BA6-A09D-172F883F3060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F804EA61-7B46-4BA6-A09D-172F883F3060}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F804EA61-7B46-4BA6-A09D-172F883F3060}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F804EA61-7B46-4BA6-A09D-172F883F3060}.Release|Any CPU.Build.0 = Release|Any CPU
 		{413B47C0-E8F9-4BBA-B4E2-B248DE7C46D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{413B47C0-E8F9-4BBA-B4E2-B248DE7C46D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413B47C0-E8F9-4BBA-B4E2-B248DE7C46D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{99C9E82C-C594-446D-AA59-8FFBC43AD226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99C9E82C-C594-446D-AA59-8FFBC43AD226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99C9E82C-C594-446D-AA59-8FFBC43AD226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37C135B-D575-4E24-9D91-0DBB70DDC5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37C135B-D575-4E24-9D91-0DBB70DDC5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37C135B-D575-4E24-9D91-0DBB70DDC5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37C135B-D575-4E24-9D91-0DBB70DDC5C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -135,7 +135,7 @@
       <Name>CarPC.Interfaces</Name>
     </ProjectReference>
     <ProjectReference Include="..\CarPC.MediaLib\CarPC.MediaLib.csproj">
-      <Project>{f804ea61-7b46-4ba6-a09d-172f883f3060}</Project>
+      <Project>{f37c135b-d575-4e24-9d91-0dbb70ddc5c8}</Project>
       <Name>CarPC.MediaLib</Name>
     </ProjectReference>
   </ItemGroup>

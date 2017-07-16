@@ -15,5 +15,10 @@ namespace CarPC.WPFApp.ViewModels
         {
 
         }
+
+        private void playSound()
+        {
+            //System.Media.SoundPlayer
+        }
     }
 }
